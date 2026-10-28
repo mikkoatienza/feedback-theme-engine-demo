@@ -1,0 +1,5 @@
+extractor: rules
+embeddings: tfidf
+internal_speakers: [Host, Interviewer]
+threshold: 0.3
+match_threshold: 0.5

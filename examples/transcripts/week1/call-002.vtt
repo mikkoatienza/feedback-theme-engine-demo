@@ -1,0 +1,19 @@
+WEBVTT
+
+NOTE account: Juniper Labs (synthetic)
+
+1
+00:00:01.000 --> 00:00:04.000
+<v Host>Welcome, tell us about onboarding.</v>
+
+2
+00:00:04.500 --> 00:00:09.000
+<v Lee>Onboarding new users is slow and the checklist is confusing.</v>
+
+3
+00:00:09.500 --> 00:00:13.000
+<v Lee>Also the invite email never arrives, it ends up in spam.</v>
+
+4
+00:00:13.500 --> 00:00:17.000
+<v Lee>And the CSV export fails for big reports.</v>

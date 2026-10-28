@@ -1,8 +1,0 @@
-[
- {"id": "call-01", "account": "Synthetic Co A", "text": "Exporting reports to CSV is painful. The export button times out on large reports. We also want a dark mode."},
- {"id": "call-02", "account": "Synthetic Co B", "text": "Onboarding new users takes too long. The invite email often lands in spam. CSV export fails for big reports."},
- {"id": "call-03", "account": "Synthetic Co C", "text": "Please add dark mode, our team works at night. Also the export to CSV is slow."},
- {"id": "call-04", "account": "Synthetic Co D", "text": "The invite email never arrives for some users. Onboarding checklist is confusing."},
- {"id": "call-05", "account": "Synthetic Co E", "text": "Pricing page is unclear about seats. We were surprised by the invoice for extra seats."},
- {"id": "call-06", "account": "Synthetic Co F", "text": "Our finance team was confused by seat pricing on the invoice. Dark mode would be nice."}
-]

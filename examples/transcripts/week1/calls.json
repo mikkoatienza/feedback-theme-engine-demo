@@ -1,0 +1,14 @@
+[
+  {"id": "call-003", "account": "Bluebird Clinic (synthetic)", "date": "2026-10-03",
+   "utterances": [
+     {"speaker": "Interviewer", "text": "What would make the product better?"},
+     {"speaker": "Sam", "text": "Please add dark mode, our team works at night."},
+     {"speaker": "Sam", "text": "Seat pricing on the invoice is unclear and we were surprised by extra charges."}
+   ]},
+  {"id": "call-004", "account": "Harbor Freight Co-op (synthetic)", "date": "2026-10-04",
+   "utterances": [
+     {"speaker": "Host", "text": "Any billing questions?"},
+     {"speaker": "Rio", "text": "The seat pricing is confusing on the invoice. Finance was surprised by the seat charges."},
+     {"speaker": "Rio", "text": "Exporting large reports to CSV is slow and sometimes fails."}
+   ]}
+]

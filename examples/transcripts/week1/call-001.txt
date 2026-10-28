@@ -1,0 +1,7 @@
+# account: Northwind Bakery (synthetic)
+# date: 2026-10-01
+Host: Thanks for joining. How is the reporting going?
+Dana: Honestly exporting reports to CSV is painful. The export times out on large reports.
+Dana: We would love a dark mode for the night shift.
+Host: Got it, anything else?
+Dana: The invite email never arrives for some new staff.
